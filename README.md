@@ -13,14 +13,14 @@ Yes, it's. You can track **unlimited accounts**.
 * [Download it here](https://github.com/fraste97/FollowersTracker/archive/master.zip)
 
 ## Requirements
-* Python 3.8 or latest
+* [Python 3.8 or latest](https://www.python.org/downloads/)
 
-* matplotlib 
+* [Matplotlib](https://pypi.org/project/matplotlib/) 
 ```bash
 pip install matplotlib
 ```
 
-* selenium
+* [Selenium](https://pypi.org/project/selenium/)
 ```bash
 pip install selenium
 ```
