@@ -16,14 +16,14 @@ Yes, it's. You can track **unlimited accounts**.
 * [Python 3.8 or latest](https://www.python.org/downloads/)
 
 * [Matplotlib](https://pypi.org/project/matplotlib/) 
-```bash
-pip install matplotlib
-```
+    ```bash
+    pip install matplotlib
+    ```
 
 * [Selenium](https://pypi.org/project/selenium/)
-```bash
-pip install selenium
-```
+    ```bash
+    pip install selenium
+    ```
 
 * [Firefox](https://www.mozilla.org/it/firefox/new/)
 
