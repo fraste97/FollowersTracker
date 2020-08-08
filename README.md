@@ -9,8 +9,8 @@ Finally, it **plots** a graphic that shows you the progress of your followers' n
 ## Is it possible to track multiple account?
 Yes, it's. You can track **unlimited accounts**.
 
-## Download
-* [Download it](https://github.com/fraste97/FollowersTracker/archive/master.zip)
+## How to download it?
+* [Download it here](https://github.com/fraste97/FollowersTracker/archive/master.zip)
 
 ## Requirements
 * Python 3.8 or latest
