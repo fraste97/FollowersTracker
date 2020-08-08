@@ -25,7 +25,7 @@ pip install matplotlib
 pip install selenium
 ```
 
-* [Firefox] (https://www.mozilla.org/it/firefox/new/)
+* [Firefox](https://www.mozilla.org/it/firefox/new/)
 
 * Windows 10
 
